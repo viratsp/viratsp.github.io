@@ -12,8 +12,8 @@ My motto, "<span id="k">Find a problem->Think->Design->Code->Deploy->Solve</span
 I love to learn different technologies & solve interesting problems
 I have experience in <span id="a">Data Visualization(D3.js) , Web Developer(MERN) & Design Thinking</span>
 </span> 
-<span>I love <span id="a">Python</span> 🐍</span>
-<span>I speak <span id="a">Pandas</span> 🐼 & think in <span id="a">Dataframes</span></span>
+<span>I love <span id="a">Java Script</span>
+<span>I speak <span id="a">JQuery</span> think in <span id="a">Data Driven Documents(D3.js)</span></span>
 
 <span> Download my resume <a href="https://drive.google.com/file/d/15UH2mi5w95IfETvTbRIRiUcWaU7Xqg2_/view?usp=sharing">here</a></span>
 
