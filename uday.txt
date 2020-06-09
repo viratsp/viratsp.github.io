@@ -17,6 +17,12 @@ I have experience in <span id="a">Data Visualization(D3.js) , Web Developer(MERN
 
 <span> Download my resume <a href="https://drive.google.com/file/d/15UH2mi5w95IfETvTbRIRiUcWaU7Xqg2_/view?usp=sharing">here</a></span>
 
+<span> Find Some of my Works Here </span>
+
+<a href = "http://dashboards.soulpageit.com/covidtracker/">Covid-19 Tracker</a>
+<a href = "http://dashboards.soulpageit.com/Oil-and-gas-analytics/">Oil and Gas Analytics</a>
+<a href = "http://dashboards.soulpageit.com/Bfsi-analytics/">Banking Analytics</a>
+<a href = "http://dashboards.soulpageit.com/Sentimental_analytics/">Sentimental Analytics</a>
 
 
 I am <span id="a">looking for interesting roles & opportunites</span> relevant to my profile which gives me an opportunity to be involved in amazing projects
